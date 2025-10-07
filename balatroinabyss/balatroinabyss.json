@@ -1,0 +1,17 @@
+{
+  "id": "balatroinabyss",
+  "name": "Balatro in Abyss",
+  "author": [
+    "Random71777"
+  ],
+  "description": "Jokers and Consumables based of Made in Abyss",
+  "prefix": "Abyss",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "655347",
+  "badge_text_colour": "FFFFFF",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
